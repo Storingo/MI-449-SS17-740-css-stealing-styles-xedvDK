@@ -23,6 +23,8 @@ div {
   color: #7795f8;
   text-decoration: none;
   transition: all 0.15s ease;
+  outline: none;
+  border: 0;
 }
 
 .enter:hover {
